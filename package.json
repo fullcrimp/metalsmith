@@ -18,7 +18,7 @@
     "clone": "^0.1.11",
     "co-fs-extra": "0.0.2",
     "commander": "^2.6.0",
-    "fs-extra": "~0.10.0",
+    "fs-extra": "~0.13.0",
     "gray-matter": "^2.0.0",
     "has-generators": "^1.0.1",
     "is": "^2.2.0",
